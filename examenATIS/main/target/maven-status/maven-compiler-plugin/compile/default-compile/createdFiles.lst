@@ -1,0 +1,17 @@
+servicios\reportes.class
+archivosUtiles\validaciones.class
+manejoErrores\validarExc.class
+modelos\aulaTipo.class
+archivosUtiles\validarFechas.class
+modelos\reservaEventos.class
+modelos\reservaClase.class
+com\mycompany\main\Main.class
+modelos\eventoTipo.class
+modelos\aula.class
+archivosUtiles\archivos.class
+modelos\reserva.class
+modelos\reservaPractica.class
+servicios\aulaGestor.class
+manejoErrores\conflictos.class
+modelos\reservaEstado.class
+servicios\reserveGestor.class
